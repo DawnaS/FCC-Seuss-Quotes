@@ -1,0 +1,78 @@
+/* Background courtesy http://subtlepatterns.com/ */
+body {
+  background-image: url('../img/subtle_stripes_turq.png');
+  color: #34495e;
+}
+.wrapper {
+  width: 80%;
+  margin: 0 auto;
+}
+.quoteBox {
+  width: 60%;
+  min-width: 300px;
+  min-height: 250px;
+  margin: 0 auto;
+  margin-top: 30px;
+  background: #ecf0f1;
+  border-radius: 10px;
+  border: 1px solid #0F6D5B;
+  box-sizing: border-box;
+  padding: 10px 10px 10px 15px;
+}
+h1 {
+  font-family: 'Love Ya Like A Sister', cursive;
+  color: #2c3e50;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+.hr {
+  border-bottom: 1px solid #34495e;
+  width: 90%;
+  margin: 0 auto;
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
+#theQuote {
+  font-family: 'Schoolbell', cursive;
+  font-size: 1.2em;
+  margin-bottom: 20px;
+}
+.button {
+  display: block;
+  margin: 0 auto;
+}
+span {
+  display: block;
+  margin-left: 65%;
+  font-size: .8em;
+}
+#fish {
+  position: relative;
+  width: 100%;
+  height: 30px;
+  box-sizing: border-box;
+}
+.container {
+  display: inline-block;
+  width: 23%;
+  height: 30px;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+.container>img {
+  display: block;
+  margin: 0 auto;
+  height: 30px;
+}
+.left-margin {
+  margin-left: 10px;
+}
+.button {
+  border: none;
+  background: #9b59b6;
+  color: #ecf0f1;
+  border-radius: 8px;
+  padding: 5px 10px;
+  margin-top: 20px;
+}
